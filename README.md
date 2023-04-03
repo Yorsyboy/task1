@@ -9,9 +9,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
@@ -19,13 +16,13 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](./images/Screenshot.png.jpg)
+![screenshot](./images/Screenshot.png.jpg)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Yorsyboy/task1)
-- Live Site URL: [Add live site URL here](https://yorsyboy.github.io/task1/)
+- Solution URL: [View](https://github.com/Yorsyboy/task1)
+- Live Site URL: [View](https://yorsyboy.github.io/task1/)
 
 ## My process
 
