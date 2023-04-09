@@ -21,8 +21,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [View](https://github.com/Yorsyboy/task1)
-- Live Site URL: [View](https://yorsyboy.github.io/task1/)
+- Solution URL: [View Here](https://github.com/Yorsyboy/task1)
+- Live Site URL: [View Here](https://yorsyboy.github.io/task1/)
 
 ## My process
 
